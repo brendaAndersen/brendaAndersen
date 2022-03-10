@@ -1,6 +1,6 @@
   
 - :woman_student: I'm a student
-- 🌱 I’m currently learning Express.JS
+- 🌱 I’m currently learning Express.JS and TS
 - 📫 How to reach me: brenda_andersen@protonmail.com
 
 
