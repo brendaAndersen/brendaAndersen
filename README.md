@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brenda</h1>
 <h3 align="center">A FullStack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [my portifolio](https://portifolio-front-theta.vercel.app)
+- 🔭 I’m currently working on [this project](physics-bay-seven.vercel.app)
 
 - 🌱 I’m currently learning **Java/Spring, Fastify and Angular**
 
