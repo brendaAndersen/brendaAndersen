@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java/Spring, Fastify and Angular**
 
-- 👨‍💻 All of my projects are available at [https://github/brendaAndersen](https://github/brendaAndersen)
+- 👨‍💻 All of my projects are available at [https://github/brendaAndersen](https://github.com/brendaAndersen)
 
 - 💬 Ask me about **React, TS, Express.JS, Next.JS**
 
