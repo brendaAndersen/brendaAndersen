@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brendaandersen&show_icons=true&theme=dracula&locale=en&layout=compact" alt="brendaandersen" /></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brendaandersen&show_icons=true&theme=dracula&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="brendaandersen" /></p>
       </td>
       <td>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brendaandersen&show_icons=true&theme=dracula&locale=en" alt="brendaandersen" /></p>
