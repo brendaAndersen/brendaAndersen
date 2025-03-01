@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brenda</h1>
 <h3 align="center">A FullStack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [this project](https://github.com/brendaAndersen/physics)
+- 🔭 I’m currently working on [this project](https://github.com/brendaAndersen/carcino-ai)
 
 - 🌱 I’m currently learning **Java/Spring, Fastify and Angular**
 
@@ -42,6 +42,8 @@
 <img src="https://img.shields.io/badge/spring-4D4577?logo=spring&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-8234e9?logo=python&style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/jest.js-4D4577?logo=jest.js&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/laravel-8234e9?logo=laravel&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue.js-4D4577?logo=vue.js&style=for-the-badge&logoColor=white"/>
 </div>
 <br>
 <div>
